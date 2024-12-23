@@ -1,6 +1,5 @@
 ## Hi I'm Honoka Ishii 👋
-
-**honoka-ishii/honoka-ishii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
 
 - 🔭 I’m currently working on Japan,Osaka
 - 🌱 I’m currently learning Typescript,Python,Next.js,Django
